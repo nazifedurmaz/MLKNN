@@ -1,2 +1,2 @@
-# MLKNN
-KNN algoritmasını kullanarak ML projesi
+# MachineLearning
+My projects on machine learning
